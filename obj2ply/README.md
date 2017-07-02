@@ -1,5 +1,3 @@
-This script converts meshes from OBJ to PLY format.
-
 **Usage:**
 
 ```python main.py <input folder> <output folder>```
